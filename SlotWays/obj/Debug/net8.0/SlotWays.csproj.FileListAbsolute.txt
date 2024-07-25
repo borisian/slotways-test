@@ -1,0 +1,14 @@
+C:\Users\boris\Documents\prog\Desktop\SlotWays\bin\Debug\net8.0\SlotWays.exe
+C:\Users\boris\Documents\prog\Desktop\SlotWays\bin\Debug\net8.0\SlotWays.deps.json
+C:\Users\boris\Documents\prog\Desktop\SlotWays\bin\Debug\net8.0\SlotWays.runtimeconfig.json
+C:\Users\boris\Documents\prog\Desktop\SlotWays\bin\Debug\net8.0\SlotWays.dll
+C:\Users\boris\Documents\prog\Desktop\SlotWays\bin\Debug\net8.0\SlotWays.pdb
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\SlotWays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\SlotWays.AssemblyInfoInputs.cache
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\SlotWays.AssemblyInfo.cs
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\SlotWays.csproj.CoreCompileInputs.cache
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\SlotWays.dll
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\refint\SlotWays.dll
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\SlotWays.pdb
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\SlotWays.genruntimeconfig.cache
+C:\Users\boris\Documents\prog\Desktop\SlotWays\obj\Debug\net8.0\ref\SlotWays.dll
